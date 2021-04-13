@@ -1,1 +1,1 @@
-#High Precision Binary Calculator
+#High Precision Binary Calculator for arbitrarily large number
