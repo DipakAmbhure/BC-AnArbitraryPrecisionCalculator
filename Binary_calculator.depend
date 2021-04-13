@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1604857632 source:d:\college\iii semister\dsa\bc_app\binary_calculator\calculator.c
+	"number.h"
+	"stack.h"
+	"caller.h"
+	"calculator.h"
+	<stdlib.h>
+	<strings.h>
+	"token.h"
+
+1604855826 d:\college\iii semister\dsa\bc_app\binary_calculator\number.h
+
+1604855679 d:\college\iii semister\dsa\bc_app\binary_calculator\stack.h
+
+1604856678 d:\college\iii semister\dsa\bc_app\binary_calculator\caller.h
+
+1604847524 d:\college\iii semister\dsa\bc_app\binary_calculator\calculator.h
+
+1604855433 d:\college\iii semister\dsa\bc_app\binary_calculator\token.h
+
+1604849738 source:d:\college\iii semister\dsa\bc_app\binary_calculator\caller.c
+	<stdlib.h>
+	"number.h"
+	"mathoperations.h"
+	"caller.h"
+
+1604855937 d:\college\iii semister\dsa\bc_app\binary_calculator\mathoperations.h
+
+1604849847 source:d:\college\iii semister\dsa\bc_app\binary_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<limits.h>
+	"number.h"
+	"stack.h"
+	"token.h"
+	"calculator.h"
+	"caller.h"
+	"mathoperations.h"
+	<strings.h>
+	<ctype.h>
+
+1604856801 source:d:\college\iii semister\dsa\bc_app\binary_calculator\number.c
+	<stdlib.h>
+	<stdio.h>
+	"number.h"
+
+1604855783 source:d:\college\iii semister\dsa\bc_app\binary_calculator\stack.c
+	<stdlib.h>
+	<stdio.h>
+	"number.h"
+	"stack.h"
+
+1604857164 source:d:\college\iii semister\dsa\bc_app\binary_calculator\token.c
+	<strings.h>
+	<ctype.h>
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+	"token.h"
+
+1604856945 source:d:\college\iii semister\dsa\bc_app\binary_calculator\mathoperations.c
+	<stdlib.h >
+	<stdio.h >
+	"number.h"
+	"mathoperations.h"
+
+1606922944 source:d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\calculator.c
+	"number.h"
+	"stack.h"
+	"caller.h"
+	"calculator.h"
+	<stdlib.h>
+	<strings.h>
+	"token.h"
+
+1606922944 d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\number.h
+
+1606922944 d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\stack.h
+
+1606922944 d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\caller.h
+
+1606922944 d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\calculator.h
+
+1606922944 d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\token.h
+
+1606922944 source:d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\caller.c
+	<stdlib.h>
+	"number.h"
+	"mathoperations.h"
+	"caller.h"
+
+1606922944 d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\mathoperations.h
+
+1606922944 source:d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<limits.h>
+	"number.h"
+	"stack.h"
+	"token.h"
+	"calculator.h"
+	"caller.h"
+	"mathoperations.h"
+	<strings.h>
+	<ctype.h>
+
+1606922944 source:d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\mathoperations.c
+	<stdlib.h >
+	<stdio.h >
+	"number.h"
+	"mathoperations.h"
+
+1606922944 source:d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\number.c
+	<stdlib.h>
+	<stdio.h>
+	"number.h"
+
+1606922944 source:d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\stack.c
+	<stdlib.h>
+	<stdio.h>
+	"number.h"
+	"stack.h"
+
+1606922944 source:d:\college\iii semister\dsa\project_demo\111903143_dipakambhure_bc\binary_calculator\token.c
+	<strings.h>
+	<ctype.h>
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+	"token.h"
+
